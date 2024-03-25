@@ -2,6 +2,10 @@
 
 int main()
 {
-	std::cout << "AKB";
+	int num;
+	std::cin >> num;
+
+	std::cout << num << std::endl;
+
 	system("pause>0");
 }
